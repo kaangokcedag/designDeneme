@@ -32,7 +32,7 @@ class KayitSayfasi : AppCompatActivity() {
             binding.kayitIsim.text.clear()
             binding.kayitkullaniciadi.text.clear()
             binding.kayitparola.text.clear()
-            // ASFASFAFSASFAFSASFASFASFAFS
+
         }
 
 
