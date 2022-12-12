@@ -28,6 +28,8 @@ class AnaMenu : AppCompatActivity() {
         supportActionBar?.setTitle("GUVENLINSAAT")
         supportActionBar?.hide()
         supportActionBar?.hide()
+        //  2 tane hide
+        supportActionBar?.hide()
         setContentView(R.layout.activity_ana_menu)
         val yenidokumanlink = findViewById(R.id.textView6) as TextView
         yenidokumanlink.setOnClickListener{
